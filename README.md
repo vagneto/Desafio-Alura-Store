@@ -1,5 +1,5 @@
 ## Desafio Alura Store
-* Este é um trabalho criado pela instituição de ensino Alura, para extração e análise de informações de bases fictícias de vendas.
+* Este é um trabalho criado pela instituição de ensino Alura, para extração e análise de informações de bases fictícias de vendas em um Dataframe de quatro base de lojas, concatenados.
 
 ## Tecnologias utilizadas:
 
